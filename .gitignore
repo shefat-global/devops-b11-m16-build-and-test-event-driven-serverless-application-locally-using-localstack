@@ -1,0 +1,6 @@
+.env
+volume/
+*.zip
+response*.json
+__pycache__/
+.DS_Store

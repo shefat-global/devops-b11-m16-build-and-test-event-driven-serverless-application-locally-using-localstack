@@ -1,0 +1,2 @@
+Module 16 LocalStack serverless assignment test file.
+This file is uploaded to the local S3 bucket to trigger Lambda Function 1.
